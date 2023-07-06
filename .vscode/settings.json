@@ -1,0 +1,34 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Enabled",
+                "ssl": {}
+            },
+            "previewLimit": 50,
+            "server": "ssl.du.ac.bd",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "du",
+            "database": "ict_mis",
+            "username": "root",
+            "password": "C0voCation@2019@#"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Enabled",
+                "ssl": {}
+            },
+            "previewLimit": 50,
+            "server": "103.221.252.57",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "ict",
+            "database": "ict_mis",
+            "username": "root",
+            "password": "C0voCation@2019@#"
+        }
+    ]
+}
