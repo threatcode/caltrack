@@ -18,7 +18,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "dexie": "^3.2.4",
-    "flexsearch": "^0.7.34",
+    "flexsearch": "^0.7.43",
     "jquery": "^3.7.1"
   },
   "devDependencies": {
